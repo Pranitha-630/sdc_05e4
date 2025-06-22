@@ -25,7 +25,7 @@ weather-app/
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation
 
-
+![Image](https://github.com/user-attachments/assets/f082a82d-60bc-4cbd-941b-cdcfbe193423)
 INSTALLATION & SETUP
 PREREQUISITES
 •	Node.js & npm
