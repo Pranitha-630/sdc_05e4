@@ -15,6 +15,7 @@ ShoppingCartApp/
 │ │ ├── paybycreditcard.css
 │ ├── html/
 │ │ ├── paybycreditcard.html
+![Image](https://github.com/user-attachments/assets/0591c0d6-ed93-4067-ba95-627e2b37d7f5)
 
 Technologies Used
 -HTML5
