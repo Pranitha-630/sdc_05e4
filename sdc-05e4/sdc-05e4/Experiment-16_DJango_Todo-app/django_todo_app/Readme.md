@@ -33,7 +33,7 @@ django_todo_app/
 └── README.md # Project documentation
 
  
- 
+ ![Image](https://github.com/user-attachments/assets/9df74b3c-1234-42f4-b4bd-fe8741f69f57)
 INSTALLATION & SETUP PREREQUISITES  
 •	Python 3.8+  
 •	pip (Python package installer)  
