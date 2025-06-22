@@ -27,7 +27,7 @@ student-management-react/
 └── README.md                # Project documentation
 
 
- 
+ ![Image](https://github.com/user-attachments/assets/dbbb07e5-d89e-44fe-8b03-c3b117586e05)
 
 INSTALLATION & SETUP
 PREREQUISITES
