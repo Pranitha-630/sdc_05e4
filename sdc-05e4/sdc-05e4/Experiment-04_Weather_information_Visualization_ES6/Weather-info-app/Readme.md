@@ -26,6 +26,7 @@ Installation & Setup
 3.Navigate to the project directory:
 4.cd weather-visualization
 5.Open index.html in a web browser.
+![Image](https://github.com/user-attachments/assets/07882640-c1b8-4899-be33-a9350c13ae59)
 
 Usage
 1.Enter a valid city name in the input field.
