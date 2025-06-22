@@ -27,6 +27,7 @@ shopping-cart/
 │   └── javax.servlet-api-4.0.1.jar
 ├── README.md                       # Project documentation
 
+![Image](https://github.com/user-attachments/assets/41596b32-04a4-4c51-8095-124d81d89f31)
 
   
 INSTALLATION & SETUP
