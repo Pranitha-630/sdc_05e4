@@ -59,7 +59,7 @@ To run Path module demo:
 
 node eventDemo.js
 To run Events module demo:
-
+![Image](https://github.com/user-attachments/assets/72100b43-ef9d-4e41-95e3-9846b3750ba4)
 
 OUTPUT EXAMPLES  
 •	server.js – Displays a web page with "Hello from Node.js custom server!"  
