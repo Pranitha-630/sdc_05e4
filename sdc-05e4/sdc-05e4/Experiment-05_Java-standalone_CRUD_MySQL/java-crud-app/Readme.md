@@ -45,7 +45,7 @@ java-crud-app/
 ├── lib/
 │   └── mysql-connector-j-<version>.jar
 └── bin/
-
+![Image](https://github.com/user-attachments/assets/e060190b-ccc1-4fde-b668-88ab19b0d206)
 2.	Load JDBC Driver in Java:
 Class.forName("com.mysql.cj.jdbc.Driver");
 
