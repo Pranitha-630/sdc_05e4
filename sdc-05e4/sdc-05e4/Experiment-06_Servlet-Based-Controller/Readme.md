@@ -69,6 +69,5 @@ This project is licensed under the MIT License.
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
 
-Author
-•tarunteja
+
 
